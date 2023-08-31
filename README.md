@@ -1,7 +1,7 @@
 # Online-Retailer-Marketing-Metrics-and-KPIs
 Performing exploratory analysis on a mock online retailer and calculating KPIs to measure marketing success
 
-## Quarerly Marketing Metrics
+## Quarterly Marketing Metrics
 
 This report provides a comprehensive overview of the marketing metrics for an online retailer over multiple quarters. The metrics shed light on customer activity, retention, churn, and other key aspects that contribute to the retailer's performance.
 
