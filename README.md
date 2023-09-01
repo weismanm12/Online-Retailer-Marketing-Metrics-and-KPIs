@@ -37,7 +37,7 @@ Retained customer numbers varied across quarters, ranging from 37 in 2019Q3 to 4
 #### 4. Revived Customers and Revival Rate (Current Quarter):
 The count of revived customers increased over time, reaching its zenith at 14 in 2020Q4. The revival rate, denoting the proportion of customers revived from inactivity, demonstrated fluctuations across quarters. The rate ranged from 0.35 in 2019Q3 to 0.619 in 2020Q2.
 
-#### 6. Customers Churned and Churn Rate:
+#### 5. Customers Churned and Churn Rate:
 The count of churned customers exhibited fluctuations, reaching a peak of 17 in 2020Q4. The churn rate, representing the proportion of customers lost, fluctuated between 0.17 in 2019Q4 and 0.3269 in 2020Q4.
 
 <br>
