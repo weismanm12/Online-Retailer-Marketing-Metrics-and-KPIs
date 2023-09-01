@@ -28,17 +28,14 @@ This report provides an in-depth overview of the marketing metrics for an online
 #### 1. Active Customers (Current Quarter):
 The number of active customers remained consistent over the observation periods. The highest count was recorded in 2019Q4 with 53 customers, while the lowest count was in 2019Q3 with 47 customers.
 
-#### 2. Retained Customers and Retention Rate:
+#### 2. New Customers and Generation Rate:
+New customer acquisition displayed fluctuations, with the highest count (other than 2019Q1 where all customers were new) of 13 occurring in 2019Q2. The generation rate, which measures the proportion of new customers, mirrored these fluctuations, dropping to 0% in 2020Q2 and subsequent quarters due to no new customer additions.
+
+#### 3. Retained Customers and Retention Rate:
 Retained customer numbers varied across quarters, ranging from 37 in 2019Q3 to 42 in 2020Q1. The retention rate, indicating the proportion of retained customers, exhibited a positive trend, peaking at 80.77% in 2020Q1.
 
-#### 3. New Customers and Generation Rate:
-New customer acquisition displayed fluctuations, with the highest count of 51 new customers in 2019Q1. The generation rate, which measures the proportion of new customers, mirrored these fluctuations, dropping to 0% in 2020Q2 and subsequent quarters due to no new customer additions.
-
-#### 4. Inactive and Revived Customers (Current Quarter):
-The number of inactive customers showed variations, with a peak of 26 in 2020Q4. Conversely, the count of revived customers increased over time, reaching its zenith at 14 in 2020Q4.
-
-#### 5. Revival Rate:
-The revival rate, denoting the proportion of customers revived from inactivity, demonstrated fluctuations across quarters. The rate ranged from 0.35 in 2019Q3 to 0.619 in 2020Q2.
+#### 4. Revived Customers and Revival Rate (Current Quarter):
+The count of revived customers increased over time, reaching its zenith at 14 in 2020Q4. The revival rate, denoting the proportion of customers revived from inactivity, demonstrated fluctuations across quarters. The rate ranged from 0.35 in 2019Q3 to 0.619 in 2020Q2.
 
 #### 6. Customers Churned and Churn Rate:
 The count of churned customers exhibited fluctuations, reaching a peak of 17 in 2020Q4. The churn rate, representing the proportion of customers lost, fluctuated between 0.17 in 2019Q4 and 0.3269 in 2020Q4.
