@@ -6,7 +6,7 @@
 3. [Process Overview](#process)
 4. [Data Cleaning and Validation](#cleaning-validation)
 5. [Exploratory Data Analysis](#eda)
-6. [Marketing Metrics and KPIs](#marketing-metrics)
+6. [Calculating Marketing Metrics and KPIs](#marketing-metrics)
 
 ---
 
@@ -20,12 +20,23 @@ See the [EDA and Marketing KPIs notebook](eda_and_marketing_kpis.ipynb) to view 
 
 ---
 <a name="tech-skills"><a/>
+
 ## Technologies and Skills
+**Technologies/Packages**: Python (Pandas, NumPy, Matplotlib, Seaborn)
+
+**Skills**: Cleaning/Validation, Exploratory Data Analysis (EDA), Marketing Analytics, Data Visualization, Report Generation
 
 ---
 
 <a name="process"><a/>
 ## Process Overview
+
+### 1. Cleaning and Validating Data
+   - Loading the Kaggle dataet and performing cleaning/validation to prepare data for analysis
+### 2. Exploratory Data Analysis
+   - Exploring the prepared data to find general sales trends
+### 3. Calculating Marketing Metrics and KPIs
+   - Generating marketing metrics/KPIs to track relevant metrics related to marketing metric and summarizing the findings
 
 ---
 
