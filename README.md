@@ -43,10 +43,16 @@ See the [EDA and Marketing KPIs notebook](eda_and_marketing_kpis.ipynb) to view 
 <a name="cleaning-validation"><a/>
 ## Data Cleaning and Validation
 
+The first step of this analysis process involved cleaning and validating the data. This process involved tasks such as removing non-numeric values from numeric data, properly storing date values, and checking for duplicates and invalid values.
+
 ---
 
 <a name="eda"><a/>
-## Exploratory Data Analysis
+## Exploratory Data Analysis (EDA)
+
+To gain a general sense of of the companies sales, EDA was performed. See some key takeaways from this process below:
+
+### Distribution of Single-Order Revenue and Cost of Goods Sold
 
 ---
 
