@@ -74,7 +74,7 @@ The first step of this analysis process involved cleaning and validating the dat
 <a name="eda"><a/>
 ## Exploratory Data Analysis (EDA)
 
-To gain a general sense of of the companies sales, EDA was performed. See some key takeaways from this process below:
+To gain a general sense of of the company's sales, EDA was performed. See some key takeaways from this process below:
 
 ### Distribution of Single-Order Revenue and Cost of Goods Sold
 
