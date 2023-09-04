@@ -1,0 +1,14 @@
+Metric,Description,Calculation
+Current Quarter Active Customers,Customers who have made a purchase in the current quarter,
+New Customers,Customers who have made their first purchase in the current quarter,
+Generation Rate,Fraction of active customers that are new,New Customers / Current Quarter Active Customers
+Previous Quarter Active Customers,Customers who made a purchase in the previous quarter,
+Retained Customers,Customers who made a purchase in both the current quarter and the previous quarter,
+Retention Rate,Fraction of customers who were retained from the previous quarter,Retained Customers / Previous Quarter Active Customers
+Customers Churned,Customers who made a purchase in the previous quarter and did not make a purchase in the current quarter,
+Churn Rate,Fraction of Customers from the previous quarter who churned,Customers Churned / Previous Quarter Active Customers
+Current Quarter Inactive Customers,Customers who made a purchase a past quarter and did not make a purchase in the current quarter,
+Previous Quarter Inactive Customers,Customers who made a purchase a past quarter and did not make a purchase in the previous quarter,
+Revived Customers,Previous quarter inactive customers who made a purchase in the current quarter,
+Revival Rate,Fraction of customers who made a purchase in the current quarter and were inactive in the previous quarter,Revived Customers / Previous Quarter Inactive Customers
+Historical Customer Count,All customers who have ever made a purchase in any quarter,
