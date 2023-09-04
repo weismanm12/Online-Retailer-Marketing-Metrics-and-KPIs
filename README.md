@@ -14,7 +14,7 @@
 ## Introduction
 In this project, we will be examining two years of sales data of a fictional online retailer based out of the UK. This retailer deals primarily in sales to distributers in large quantities, resulting in high value individual transactions. The company sells products consisting of multiple different categories, such as clothing, electronics, and books, among others. To view more information related to this dataset, view the [Kaggle dataset](https://www.kaggle.com/datasets/ronnykym/online-store-sales-data?resource=download).
 
-This analysis starts with examing the data and performing data cleaning/validation to ensure the validity of the data. We will then perform exploratory analysis to examine sales trends by different categorical datatypes and over time. We will end by generating a marketing report to examine various different marketing metrics and evaluate the success of marketing operations.
+This analysis starts with examing the data and performing data cleaning/validation to ensure the validity of the data. We will then perform exploratory analysis to examine sales trends by different categorical datatypes and over time. Lastly, a report will be generated to examine various different marketing metrics and evaluate the success of marketing operations.
 
 **See the [EDA and Marketing KPIs notebook](eda_and_marketing_kpis.ipynb) to view the full analysis and code.**
 
