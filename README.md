@@ -24,7 +24,7 @@ This analysis starts with examing the data and performing data cleaning/validati
 ## Technologies and Skills
 **Technologies/Packages**: Python (Pandas, NumPy, Matplotlib, Seaborn)
 
-**Skills**: Cleaning/Validation, Exploratory Data Analysis (EDA), Marketing Analytics, Data Visualization, Report Generation
+**Skills**: Data Cleaning/Validation, Exploratory Data Analysis (EDA), Marketing Analytics, Data Visualization, Report Generation
 
 ---
 
