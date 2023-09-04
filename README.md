@@ -1,4 +1,4 @@
-# Online Retailer Marketing Metrics and KPIs Tracking
+# Sales Analysis and Marketing KPI Tracking for an Online Retailer
 
 ## Table of Contents
 1. [Introduction](#introduction)
