@@ -16,7 +16,7 @@ In this project, we will be examining two years of sales data of a fictional onl
 
 This analysis starts with examing the data and performing data cleaning/validation to ensure the validity of the data. We will then perform exploratory analysis to examine sales trends by different categorical datatypes and over time. Lastly, a report will be generated to examine various different marketing metrics and evaluate the success of marketing operations.
 
-This README file contains an abbreviated analysis without code. **See the [EDA and Marketing KPIs notebook](eda_and_marketing_kpis.ipynb) to view the full analysis and code.**
+This README file contains an abbreviated analysis without code. **See the [EDA and Marketing KPIs notebook](https://nbviewer.org/github/weismanm12/retailer-eda-and-marketing-kpis/blob/main/eda_and_marketing_kpis.ipynb) to view the full analysis and code.**
 
 ---
 
