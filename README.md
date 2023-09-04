@@ -54,6 +54,34 @@ To gain a general sense of of the companies sales, EDA was performed. See some k
 
 ### Distribution of Single-Order Revenue and Cost of Goods Sold
 
+![fig1](EDA%20Visualizations/orders_revenue_cost.png)
+
+We can see that orders are typically high in value, with most bringing in over £500000 in revenue and costing around the same amount as well.
+
+<br/>
+
+### Revenue by Country
+
+![fig2](EDA%20Visualizations/country_revenue.png)
+
+We can see that the countries of Portugal and France have generated the most revenue, followed by Sweden and the UK.
+
+<br/>
+
+### Top Categories
+
+![fig3](EDA%20Visualizations/category_revenue.png)
+
+Clothing is the most popular category of products sold, with many other categories having substantial sales as well.
+
+<br/>
+
+### Monthly Revenue Over Time
+
+![fig4](EDA%20Visualizations/revenue_monthly_continuous.png)
+
+The analysis of sales over time reveals substantial month-to-month fluctuations, peaking in December 2019 and sharply declining in February 2020. Seasonal trends are also evident, with sales rising in spring and summer, falling in fall, and resurging during December's winter holidays before decreasing again in winter months.
+
 ---
 
 <a name="marketing-metrics"><a/>
