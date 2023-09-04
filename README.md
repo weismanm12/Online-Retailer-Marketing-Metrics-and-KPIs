@@ -149,7 +149,7 @@ The count of revived customers increased over time, reaching its zenith at 14 in
 #### 5. Customers Churned and Churn Rate:
 The count of churned customers exhibited fluctuations, reaching a peak of 17 in 2020Q4. The churn rate, representing the proportion of customers lost, fluctuated between 0.17 in 2019Q4 and 0.3269 in 2020Q4.
 
-### Summary:
+### Summary
 In summary, the online retailer's customer base remained stable over the observation period. Initiatives aimed at retaining and reviving customers yielded positive outcomes, as indicated by improved retention and revival rates. Churn rates experienced fluctuations, with the highest churn rate recorded in 2020Q4, however the high revival rates indicate that these customers often return in the quarter. New customer acquisition varied, with a decline in 2020Q2 that is yet to be recovered, indicating that more emphasis on customer acquisition marketing may be needed.
 
 Collectively, these metrics offer valuable insights into the retailer's customer engagement and retention strategies.
